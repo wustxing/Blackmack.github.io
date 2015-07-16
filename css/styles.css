@@ -283,7 +283,7 @@ span.ss_text {
 	background-color: #fff;
 	position: relative;
 	z-index: 400;
-	text-align: center;
+	text-align: left;
 }
 
 .serv_icons {
